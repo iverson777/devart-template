@@ -31,6 +31,6 @@ void setup() {
 
 ## Images & Videos
 
-![Image](http://demo.corma.com.tw/NewMedia/lawoflight/cover.jpg "Image")
+![Image](project_images/cover.jpg "Image")
 
 https://vimeo.com/89424354
