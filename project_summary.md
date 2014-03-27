@@ -39,6 +39,6 @@ void setup() {
 ## Images & Videos
 
 ![Image](project_images/cover_1000.jpg "Image")
-http://youtu.be/1LH7Olj_MQY
+<iframe width="853" height="480" src="//www.youtube.com/embed/1LH7Olj_MQY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 https://vimeo.com/89424354
