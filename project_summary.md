@@ -1,33 +1,40 @@
-# Project Title
+# Law of Light
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Chin-Hsiang, Hu, (iverson777)
+- Ryan
+- Joyce
+- Cata
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+"Law of Light" is a light field installation that state in totaly control, in addition to can feel the flow of light, also contains a heated tungsten filament temperature exudes energy, and in order to establish a magnetic field to produce electricity, improve the vibration noise generated quiescent current. 
+behind of the light installation, actually being programmed electronic signals, generating light with people, light with network, light with  space, light with time, and give it awareness, rhythm and breathing. light not only represent the visual perception can be received, is audience participation can be affected by the governs of data network, was systematized by "Host".
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
+[Law of Light](https://vimeo.com/89424354 "Law of Light")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
-function test() {
-  console.log("Printing a test");
+void setup() {
+  Tlc.init();
+  Ethernet.begin(mac,ip);
+  Udp.begin(localPort);
+  Serial.begin(9600);
 }
+
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
+[AS3 - AIR Kinect](https://github.com/AS3NUI/airkinect-2-core "AS3 - AIR Kinect")
+[AS3 - Tween](http://www.greensock.com/tweenlite/ "AS3 - Tween")
+[Arduino - TLC5940](https://code.google.com/p/tlc5940arduino/ "Arduino - TLC5940")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Image](project_images/cover.jpg?raw=true "Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+https://vimeo.com/89424354
