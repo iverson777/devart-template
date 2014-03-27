@@ -31,6 +31,6 @@ void setup() {
 
 ## Images & Videos
 
-![Image](project_images/cover.jpg "Image")
+![Image](project_images/cover_1000.jpg "Image")
 
 https://vimeo.com/89424354
