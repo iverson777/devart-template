@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
-            "google trend"
+            "Google Trends",
+            "Google Video Search"
         ],
         "platforms": [
-            "insert platforms"
+            "Mac",
+            "Installation"
         ],
         "toolkits": [
             "Action Script",
@@ -15,6 +17,7 @@
     "themes": [
         "light",
         "sound",
+        "net",
         "interactive"
     ]
 }
