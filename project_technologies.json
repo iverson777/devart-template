@@ -1,16 +1,20 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google trend"
         ],
         "platforms": [
             "insert platforms"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Action Script",
+            "MadMapper",
+            "Arduino"
         ]
     },
     "themes": [
-        "insert themes"
+        "light",
+        "sound",
+        "interactive"
     ]
 }
