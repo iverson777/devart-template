@@ -1,8 +1,7 @@
 # Law of Light
-Insert the name of your project
 
 ## Authors
-- Chin-Hsiang, Hu, (iverson777)
+- Chin-Hsiang, Hu - https://github.com/iverson777/
 - Ryan
 - Joyce
 - Cata
