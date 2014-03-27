@@ -14,7 +14,6 @@ behind of the light installation, actually being programmed electronic signals, 
 [Law of Light](https://vimeo.com/89424354 "Law of Light")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 void setup() {
   Tlc.init();
@@ -25,14 +24,12 @@ void setup() {
 
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
 [AS3 - AIR Kinect](https://github.com/AS3NUI/airkinect-2-core "AS3 - AIR Kinect")
 [AS3 - Tween](http://www.greensock.com/tweenlite/ "AS3 - Tween")
 [Arduino - TLC5940](https://code.google.com/p/tlc5940arduino/ "Arduino - TLC5940")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Image](project_images/cover.jpg?raw=true "Image")
 
