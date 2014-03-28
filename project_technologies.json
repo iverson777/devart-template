@@ -11,7 +11,8 @@
         "toolkits": [
             "Action Script",
             "MadMapper",
-            "Arduino"
+            "Arduino",
+            "Kinect"
         ]
     },
     "themes": [
